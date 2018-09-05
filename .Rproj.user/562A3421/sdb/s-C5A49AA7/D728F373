@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536142032573.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D728F373",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1536142032573,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "55D39C22",
+        "caption" : "distances",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=distances&cache_key=55D39C22",
+        "displayedObservations" : 560,
+        "environment" : "",
+        "object" : "distances",
+        "preview" : 0,
+        "totalObservations" : 560,
+        "variables" : 3
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
